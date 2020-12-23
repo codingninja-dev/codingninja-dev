@@ -64,6 +64,7 @@
 <p align="center">
   <a target="_blank" href="https://www.youtube.com/channel/UCGwVjl5fbIp6Z363IgJZl8A/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a target="_blank" href="https://discord.gg/mJFBeBS6mX"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a target="_blank" href="https://twitter.com/_codingninja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a target="_blank" href="https://www.buymeacoffee.com/codingninja"><img src="https://img.shields.io/badge/Donate-F6C915?style=for-the-badge&logoColor=black"/></a>
   <a target="_blank" href="https://liinks.co/codingninja"><img src="https://img.shields.io/badge/Learn More-4285F4?style=for-the-badge&logoColor=black"/></a>
 </p>
