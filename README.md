@@ -67,4 +67,5 @@
   <a target="_blank" href="https://twitter.com/_codingninja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a target="_blank" href="https://www.buymeacoffee.com/codingninja"><img src="https://img.shields.io/badge/Donate-F6C915?style=for-the-badge&logoColor=black"/></a>
   <a target="_blank" href="https://liinks.co/codingninja"><img src="https://img.shields.io/badge/Learn More-4285F4?style=for-the-badge&logoColor=black"/></a>
+  <a target="_blank"><img src="https://komarev.com/ghpvc/?username=codingninja-dev"/></a>
 </p>
